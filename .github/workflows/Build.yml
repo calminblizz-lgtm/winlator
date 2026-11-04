@@ -21,3 +21,4 @@ jobs:
         with:
           name: winlator-apk
           path: app/**/build/outputs/apk/**/*.apk
+        
